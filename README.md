@@ -91,4 +91,4 @@ They show how SQL was used to work with relational health data, identify clinica
 
 ## What This Project Demonstrates
 
-This project demonstrates the ability to work with relational health data in SQL, validate database structure, join and analyze linked tables, identify clinically relevant risk patterns, and prepare structured datasets for future machine learning and predictive analytics work.
+This project demonstrates my ability to work with relational health data in SQL, validate database structure, join and analyze linked tables, identify clinically relevant risk patterns, and prepare structured datasets for future machine learning and predictive analytics work.
