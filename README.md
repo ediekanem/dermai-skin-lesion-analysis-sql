@@ -56,15 +56,6 @@ These tables were joined using `patient_id` so lesion records could be analyzed 
 - `README.md`
 - `DermAI_Diagnostics_Project_Overview.docx`
 - `DermAI_Diagnostics_SQL_Analysis_Presentation.pptx`
-- `SQL-queries-image-1.jpg`
-- `SQL-queries-image-2.jpg`
-- `SQL-queries-image-3.jpg`
-- `SQL-queries-image-4.jpg`
-- `SQL-queries-image-5.jpg`
-- `SQL-queries-image-6.jpg`
-- `SQL-queries-image-7.jpg`
-- `SQL-queries-image-8.jpg`
-- `SQL-queries-image-9.jpg`
 
 ## What This Project Demonstrates
 
