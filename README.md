@@ -36,30 +36,6 @@ These tables were joined using `patient_id` so lesion records could be analyzed 
 - Analyzed lesion characteristics including body region, lesion size, growth, visible change, bleeding, and biopsy status
 - Created a cleaned machine-learning-ready dataset for future predictive analysis
 
-## SQL Query Highlights
-
-The query screenshots below highlight key parts of the SQL workflow used in this project, including table joins, validation checks, exploratory analysis, and preparation of a machine-learning-ready dataset.
-
-They show how SQL was used to work with relational health data, identify clinically relevant patterns, and prepare structured outputs for downstream analysis.
-
-![SQL query image 1](./SQL-queries-image-1.jpg)
-
-![SQL query image 2](./SQL-queries-image-2.jpg)
-
-![SQL query image 3](./SQL-queries-image-3.jpg)
-
-![SQL query image 4](./SQL-queries-image-4.jpg)
-
-![SQL query image 5](./SQL-queries-image-5.jpg)
-
-![SQL query image 6](./SQL-queries-image-6.jpg)
-
-![SQL query image 7](./SQL-queries-image-7.jpg)
-
-![SQL query image 8](./SQL-queries-image-8.jpg)
-
-![SQL query image 9](./SQL-queries-image-9.jpg)
-
 ## Key Insights
 
 - Older age groups showed higher concentration for several diagnoses, making age an important contextual factor in lesion assessment
