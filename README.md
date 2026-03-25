@@ -79,6 +79,7 @@ They show how SQL was used to work with relational health data, identify clinica
 
 - `README.md`
 - `DermAI_Diagnostics_Project_Overview.docx`
+- `DermAI_Diagnostics_SQL_Analysis_Presentation.pptx`
 - `SQL-queries-image-1.jpg`
 - `SQL-queries-image-2.jpg`
 - `SQL-queries-image-3.jpg`
